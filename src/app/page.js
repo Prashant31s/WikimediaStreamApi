@@ -10,7 +10,7 @@ export default function Home() {
         <h1 className="text-3xl sm:text-4xl font-bold"> Live Wikipedia Revisions</h1>
       </header>
 
-      {/* Main */}g
+      {/* Main */}
       <main className="flex-1 max-w-5xl mx-auto grid gap-6 sm:grid-cols-2 px-6 sm:px-12 pb-4 overflow-hidden">
         {/* Task 1 Report */}
         <section className="bg-white rounded-2xl shadow-lg border p-4 flex flex-col overflow-hidden">
