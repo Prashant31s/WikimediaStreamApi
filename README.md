@@ -8,6 +8,18 @@ A **Next.js** app that tracks **live Wikipedia revisions** in real time using th
 
 Follow these steps to run the project locally:
 
+### ⚙️ Prerequisites
+
+Make sure you have **Node.js** installed. You can download it from:  
+👉 [https://nodejs.org](https://nodejs.org)
+
+To check if it's installed, run:
+
+```bash
+node -v
+npm -v
+
+```
 ### 1. Clone the Repository
 
 ```bash
