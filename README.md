@@ -45,7 +45,7 @@ pnpm dev
 # or
 bun dev
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 ```markdown
-- Local: [http://localhost:3000](http://localhost:3000)  
 - Live Demo: [https://wikimedia-stream-api-prashant31s-projects.vercel.app/](https://wikimedia-stream-api-prashant31s-projects.vercel.app/)
 
